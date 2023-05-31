@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Lighting Interal (Game)
+  - Lighting Interal (Scene)
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Environment
+    uniqueID: 2521637823
+    locked: 0
+  - name: Props
+    uniqueID: 1241028537
+    locked: 0
+  - name: Tile
+    uniqueID: 3778028165
+    locked: 0
+  - name: Dynamic
+    uniqueID: 158148985
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ceililng
+    uniqueID: 457508737
+    locked: 0
